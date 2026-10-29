@@ -71,12 +71,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Siva Reddy](http://sivareddy.in/) - semantics, syntax, parsing, interpretability
 - [Morgan Sonderegger](http://people.linguistics.mcgill.ca/~morgan/) - phonetics, phonology, language change, speech technology, statistical methods
 
-**[Montclair State University](https://www.montclair.edu/linguistics/programs-of-study/graduate-programs/ms-in-computational-linguistics/)**, Montclair, NJ [M.S. Computational Linguistics]
+**[Montclair State University](https://www.montclair.edu/linguistics/programs-of-study/graduate-programs/ms-in-computational-linguistics/)**, Montclair, NJ [B.S./M.S./Certificate in Computational Linguistics]
 
-- [NLP Lab at Montclair](https://sites.google.com/view/montclairnlplab/)
+- [NLP Lab at Montclair](https://nlplabmsu.github.io/nlp-lab-website/)
 - [Anna Feldman](https://msuweb.montclair.edu/~feldmana/) - figurative language processing, corpus linguistics
 - [Jing Peng](https://scholar.google.com/citations?user=tfOnyFcAAAAJ&hl=en) - machine learning
-- [Aparna Varde](http://web.cs.wpi.edu/~aparna/) - machine learning, data mining, NLP
+- [Libby Barak](https://libbybarak.wordpress.com/) - modeling language acquisition and learning
 
 **New York University, [Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) or [Data Science](https://cds.nyu.edu/)**, New York City [Ph.D. Linguistics, M.S./Ph.D. Data Science]
 
